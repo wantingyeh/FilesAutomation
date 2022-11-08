@@ -6,7 +6,8 @@ The script in this file provides quick automation for splitting files or convert
 - files: SplitExcelColumn.ipnb
 - language: python
 - usage: Choose the excel files that you want to split to mulitple files based on a certain column.
-- example: 
+- example:
+
 ![image](https://user-images.githubusercontent.com/83806848/200459577-f643fa28-add5-42c8-9e3d-bbf9c527e6b9.png)
   - Split the column based on *fruit*
   - You will have individual fruit files (ie., "apple.xlsx", "orange.xlsx", "kiwi.xlsx")
