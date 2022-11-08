@@ -2,7 +2,7 @@
 
 The script in this file provides quick automation for splitting files or converting files.
 
-## Split excel files based on a certain column name
+## Split excel files based on a specific column name
 - files: SplitExcelColumn.ipnb
 - language: python
 - usage: Choose the excel files that you want to split to mulitple files based on a certain column.
